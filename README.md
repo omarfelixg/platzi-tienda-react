@@ -10,6 +10,7 @@ This React - Front End project is based on a virtual shop for buying objects.
 Execute the command: 
 
 ```bash
+npm i
 npm run start
 ```
 
